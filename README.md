@@ -1,7 +1,7 @@
 <h1 align="center">Eduardo Gelain - Spet001</h1>
 
 <div align="center">
-  <strong>Computer Engineering student | Game & Software Developer</strong>
+  <strong> Game & Software Developer</strong>
 </div>
 
 <div align="center">
