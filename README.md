@@ -6,10 +6,10 @@
 
 <div align="center">
   <a href="https://spet001.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-spet001.github.io-222?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Portfolio-Website-222?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/eduardo-gelain-2407aa346/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Eduardo Gelain-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
 </div>
 
