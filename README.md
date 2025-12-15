@@ -17,12 +17,12 @@
 
 ### 👋 About Me
 
-I create **user-centric software and games** with focus on seamless experiences and quality. Whether building engaging Unity games or practical development tools, I prioritize intuitive design and solid engineering.
+I create **tools/software and games** with focus on seamless experiences and quality. Whether building engaging Unity games or practical development tools, I prioritize intuitive design and solid engineering.
 
 **What I Do:**
 - 🎮 Build games in Unity with polished mechanics
 - 🔧 Develop practical tools in C#,C++ and Python
-- 🌍 Open to remote work and international collaboration
+
 
 ---
 
@@ -31,13 +31,13 @@ I create **user-centric software and games** with focus on seamless experiences 
 <img src="https://skillicons.dev/icons?i=py,unity,c,cpp,cs,git,github,vscode,javascript" />
 
 **Languages:** Python, C, C++, C#, JavaScript 
+
 **Game Development:** Unity Engine, Game Design Patterns  
+
 **Tools:** Git, GitHub, VS Code
 
 ---
 
-### 💡 Philosophy
 
-> "Great software isn't just functional—it's a pleasure to use."
 
 
